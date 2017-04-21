@@ -1,0 +1,996 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-09 13:35-0400\n"
+"PO-Revision-Date: 2013-10-14 18:01+0200\n"
+"Last-Translator: EdgarQuispeChambi <quispedgar@yahoo.es>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ayc\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+#: recursos/comun/datos/commons.py:5
+msgid "I know Rwanda"
+msgstr "Conozco Ruanda wakichata"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid "Game about the geography of Rwanda"
+msgstr "Ruanda pachapa tuqita anataña"
+
+#: conozcouy.py:241 conozcouy.py:358 conozcouy.py:381 conozcouy.py:433
+#: conozcouy.py:519
+#, python-format
+msgid "Cannot open %s"
+msgstr "Janiwa jist'arasiña muniti %s"
+
+#: conozcouy.py:466
+#, python-format
+msgid ""
+"the city of\n"
+"%s"
+msgstr ""
+"akïri markapa\n"
+"%s"
+
+#: conozcouy.py:469
+#, python-format
+msgid ""
+"the department of\n"
+"%s"
+msgstr ""
+"akïri departamento suyupa\n"
+"%s"
+
+#: conozcouy.py:472
+#, python-format
+msgid ""
+"the province of\n"
+"%s"
+msgstr ""
+"akïri provincia suyupa\n"
+"%s"
+
+#: conozcouy.py:475
+#, python-format
+msgid ""
+"the district of\n"
+"%s"
+msgstr ""
+"akïri distrito suyupa\n"
+"%s"
+
+#: conozcouy.py:478
+#, python-format
+msgid ""
+"the state of\n"
+"%s"
+msgstr ""
+"akïri Estado suyupa\n"
+"%s"
+
+#: conozcouy.py:481
+#, python-format
+msgid ""
+"the region of\n"
+"%s"
+msgstr ""
+"akïri Ragión suyupa\n"
+"%s"
+
+#: conozcouy.py:484
+#, python-format
+msgid ""
+"the parish of\n"
+"%s"
+msgstr ""
+"akïri Parroquia suyupa\n"
+"%s"
+
+#: conozcouy.py:487
+#, python-format
+msgid ""
+"the taluka of\n"
+"%s"
+msgstr ""
+"akïri taluka suyupa\n"
+"%s"
+
+#: conozcouy.py:490
+#, python-format
+msgid ""
+"the municipality of\n"
+"%s"
+msgstr ""
+"akïri Municipalidad suyupa\n"
+"%s"
+
+#: conozcouy.py:493
+#, python-format
+msgid "the %s"
+msgstr "akïri %s"
+
+#: conozcouy.py:496
+#, python-format
+msgid "the %(river)s"
+msgstr "uka %(river)s"
+
+#: conozcouy.py:499
+#, python-format
+msgid "the %(route)s"
+msgstr "uka %(route)s"
+
+#: conozcouy.py:554
+#, python-format
+msgid "About %s"
+msgstr "Akïri tuqita %s"
+
+#: conozcouy.py:568
+msgid "Press any key to return"
+msgstr "maski kawkipiri limt'añsa kutt'añataki limt'ma"
+
+#: conozcouy.py:599
+msgid "You have chosen the map "
+msgstr "Uka markana rixipa jajllta "
+
+#: conozcouy.py:605
+msgid "Play"
+msgstr "Anataña"
+
+#: conozcouy.py:621
+msgid "Explore"
+msgstr "Thaqtaña"
+
+#: conozcouy.py:641 conozcouy.py:785
+msgid "About this game"
+msgstr "Aka anataña tuqita"
+
+#: conozcouy.py:649
+msgid "Return"
+msgstr "Kuttaña"
+
+#: conozcouy.py:706
+msgid "Choose the map to use"
+msgstr "Marka rixita apnaqaña katma"
+
+#: conozcouy.py:726
+msgid "Previous page"
+msgstr "Nayrïri laphi"
+
+#: conozcouy.py:771
+msgid "Next page"
+msgstr "Qhipïri laphi"
+
+#: conozcouy.py:792
+msgid "Exit"
+msgstr "Mistuña"
+
+#: conozcouy.py:1274
+msgid "End"
+msgstr "Tukuña"
+
+#: conozcouy.py:1285
+msgid "Show all"
+msgstr "Qawayata uñachayaña"
+
+#: conozcouy.py:1614 conozcouy.py:1870
+msgid "Press any key to skip"
+msgstr "Thuqtañataki maski kawkipiri limt'añsa q'upt'ma"
+
+#: recursos/0rwanda/datos/0rwanda.py:5
+msgid "Rwanda"
+msgstr "Ruanda marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:8 recursos/0rwanda/datos/levels.py:15
+#: recursos/0rwanda/datos/levels.py:38 recursos/0rwanda/datos/levels.py:39
+#: recursos/0rwanda/datos/levels.py:40 recursos/0rwanda/datos/levels.py:41
+#: recursos/0rwanda/datos/levels.py:42 recursos/0rwanda/datos/levels.py:43
+#: recursos/0rwanda/datos/levels.py:44 recursos/0rwanda/datos/levels.py:45
+#: recursos/0rwanda/datos/levels.py:46 recursos/0rwanda/datos/levels.py:47
+#: recursos/0rwanda/datos/levels.py:48 recursos/0rwanda/datos/levels.py:49
+#: recursos/0rwanda/datos/levels.py:50 recursos/0rwanda/datos/levels.py:51
+#: recursos/0rwanda/datos/levels.py:52 recursos/0rwanda/datos/levels.py:53
+#: recursos/0rwanda/datos/levels.py:54 recursos/0rwanda/datos/levels.py:55
+#: recursos/0rwanda/datos/levels.py:56 recursos/0rwanda/datos/levels.py:57
+#: recursos/0rwanda/datos/levels.py:58 recursos/0rwanda/datos/levels.py:59
+#: recursos/0rwanda/datos/levels.py:60 recursos/0rwanda/datos/levels.py:61
+#: recursos/0rwanda/datos/levels.py:62
+msgid "Eastern Province"
+msgstr "Inti jalsu tuqi Provincia suyu"
+
+#: recursos/0rwanda/datos/0rwanda.py:9 recursos/0rwanda/datos/0rwanda.py:20
+#: recursos/0rwanda/datos/0rwanda.py:121 recursos/0rwanda/datos/levels.py:11
+#: recursos/0rwanda/datos/levels.py:16 recursos/0rwanda/datos/levels.py:17
+msgid "Kigali"
+msgstr "Kigali marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:10 recursos/0rwanda/datos/levels.py:14
+#: recursos/0rwanda/datos/levels.py:63 recursos/0rwanda/datos/levels.py:64
+#: recursos/0rwanda/datos/levels.py:65 recursos/0rwanda/datos/levels.py:66
+#: recursos/0rwanda/datos/levels.py:67 recursos/0rwanda/datos/levels.py:68
+#: recursos/0rwanda/datos/levels.py:69 recursos/0rwanda/datos/levels.py:70
+#: recursos/0rwanda/datos/levels.py:71 recursos/0rwanda/datos/levels.py:72
+#: recursos/0rwanda/datos/levels.py:73 recursos/0rwanda/datos/levels.py:74
+#: recursos/0rwanda/datos/levels.py:75 recursos/0rwanda/datos/levels.py:76
+#: recursos/0rwanda/datos/levels.py:77
+msgid "Northern Province"
+msgstr "Ch'iqa tuqi Provincia suyu"
+
+#: recursos/0rwanda/datos/0rwanda.py:11 recursos/0rwanda/datos/levels.py:12
+#: recursos/0rwanda/datos/levels.py:18 recursos/0rwanda/datos/levels.py:19
+#: recursos/0rwanda/datos/levels.py:20 recursos/0rwanda/datos/levels.py:21
+#: recursos/0rwanda/datos/levels.py:22 recursos/0rwanda/datos/levels.py:23
+#: recursos/0rwanda/datos/levels.py:24 recursos/0rwanda/datos/levels.py:25
+#: recursos/0rwanda/datos/levels.py:26 recursos/0rwanda/datos/levels.py:27
+#: recursos/0rwanda/datos/levels.py:28 recursos/0rwanda/datos/levels.py:29
+#: recursos/0rwanda/datos/levels.py:30 recursos/0rwanda/datos/levels.py:31
+#: recursos/0rwanda/datos/levels.py:32 recursos/0rwanda/datos/levels.py:33
+#: recursos/0rwanda/datos/levels.py:34 recursos/0rwanda/datos/levels.py:35
+#: recursos/0rwanda/datos/levels.py:36 recursos/0rwanda/datos/levels.py:37
+msgid "Southern Province"
+msgstr "Kupi tuqi Provincia suyu"
+
+#: recursos/0rwanda/datos/0rwanda.py:12 recursos/0rwanda/datos/levels.py:13
+#: recursos/0rwanda/datos/levels.py:78 recursos/0rwanda/datos/levels.py:79
+#: recursos/0rwanda/datos/levels.py:80 recursos/0rwanda/datos/levels.py:81
+#: recursos/0rwanda/datos/levels.py:82 recursos/0rwanda/datos/levels.py:83
+#: recursos/0rwanda/datos/levels.py:84 recursos/0rwanda/datos/levels.py:85
+#: recursos/0rwanda/datos/levels.py:86 recursos/0rwanda/datos/levels.py:87
+#: recursos/0rwanda/datos/levels.py:88 recursos/0rwanda/datos/levels.py:89
+#: recursos/0rwanda/datos/levels.py:90 recursos/0rwanda/datos/levels.py:91
+#: recursos/0rwanda/datos/levels.py:92 recursos/0rwanda/datos/levels.py:93
+#: recursos/0rwanda/datos/levels.py:94 recursos/0rwanda/datos/levels.py:95
+#: recursos/0rwanda/datos/levels.py:96 recursos/0rwanda/datos/levels.py:97
+#: recursos/0rwanda/datos/levels.py:98 recursos/0rwanda/datos/levels.py:99
+msgid "Western Province"
+msgstr "Inti jalanta tuqi Provincia suyu"
+
+#: recursos/0rwanda/datos/0rwanda.py:13
+msgid ""
+"Republic\n"
+"Democratic of\n"
+"Congo"
+msgstr ""
+"República Jilïri Mayachäwi\n"
+"Taqinitaki p'iqinchäwi\n"
+"Congo marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:14
+msgid ""
+"United\n"
+"Republic of\n"
+"Tanzania"
+msgstr ""
+"República Jilïri Mayachäwi\n"
+"Ukampi mayachata\n"
+"Tanzania marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:15
+msgid "Uganda"
+msgstr "Uganda marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:16
+msgid "Burundi"
+msgstr "Burundi marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:21 recursos/0rwanda/datos/levels.py:12
+msgid "Nyanza"
+msgstr "Nyanza marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:22 recursos/0rwanda/datos/levels.py:13
+msgid "Kibuye"
+msgstr "Kibuye marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:23 recursos/0rwanda/datos/levels.py:14
+msgid "Byumba"
+msgstr "Byumba marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:24 recursos/0rwanda/datos/levels.py:15
+msgid "Rwamagana"
+msgstr "Rwamagana marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:28 recursos/0rwanda/datos/levels.py:16
+msgid "Kicukiro"
+msgstr "Kicukiro marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:29 recursos/0rwanda/datos/levels.py:17
+msgid "Butamwa"
+msgstr "Butamwa marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:30 recursos/0rwanda/datos/levels.py:19
+msgid "Kiyumba"
+msgstr "Kiyumba marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:31 recursos/0rwanda/datos/levels.py:20
+msgid "Runda"
+msgstr "Runda marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:32 recursos/0rwanda/datos/levels.py:21
+msgid "Bulinga"
+msgstr "Bulinga marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:33 recursos/0rwanda/datos/levels.py:22
+msgid "Gitarama"
+msgstr "Gitarama marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:34 recursos/0rwanda/datos/levels.py:23
+msgid "Masango"
+msgstr "Masango marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:35 recursos/0rwanda/datos/levels.py:24
+msgid "Ruhango"
+msgstr "Ruhango marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:36 recursos/0rwanda/datos/levels.py:25
+msgid "Gatagara"
+msgstr "Gatagara marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:37 recursos/0rwanda/datos/levels.py:26
+msgid "Rusatira"
+msgstr "Rusatira marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:38 recursos/0rwanda/datos/levels.py:27
+msgid "Kaduha"
+msgstr "Kaduha marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:39 recursos/0rwanda/datos/levels.py:28
+msgid "Karaba"
+msgstr "Karaba marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:40 recursos/0rwanda/datos/levels.py:29
+msgid "Gikongoro"
+msgstr "Gikongoro marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:41 recursos/0rwanda/datos/levels.py:30
+msgid "Karama"
+msgstr "Karama marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:42 recursos/0rwanda/datos/levels.py:31
+msgid "Kitabi"
+msgstr "Kitabi marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:43 recursos/0rwanda/datos/levels.py:32
+msgid "Butare"
+msgstr "Butare marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:44 recursos/0rwanda/datos/levels.py:33
+msgid "Gisagara"
+msgstr "Gisagara marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:45 recursos/0rwanda/datos/levels.py:34
+msgid "Ruramba"
+msgstr "Ruramba marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:46 recursos/0rwanda/datos/levels.py:35
+msgid "Busoro"
+msgstr "Busoro marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:47 recursos/0rwanda/datos/levels.py:36
+msgid "Munini"
+msgstr "Munini marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:48 recursos/0rwanda/datos/levels.py:37
+msgid "Runyombyi"
+msgstr "Runyombyi marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:49 recursos/0rwanda/datos/levels.py:38
+msgid "Kagitumba"
+msgstr "Kagitumba marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:50 recursos/0rwanda/datos/levels.py:39
+msgid "Rwemhasha"
+msgstr "Rwemhasha marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:51 recursos/0rwanda/datos/levels.py:40
+msgid "Lubirizi"
+msgstr "Lubirizi marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:52 recursos/0rwanda/datos/levels.py:41
+msgid "Nyagatare"
+msgstr "Nyagatare marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:53 recursos/0rwanda/datos/levels.py:42
+msgid "Muvumba"
+msgstr "Muvumba marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:54 recursos/0rwanda/datos/levels.py:43
+msgid "Gatunda"
+msgstr "Gatunda marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:55 recursos/0rwanda/datos/levels.py:44
+msgid "Gabiro"
+msgstr "Gabiro marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:56 recursos/0rwanda/datos/levels.py:45
+msgid "Ngarama"
+msgstr "Ngarama marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:57 recursos/0rwanda/datos/levels.py:46
+msgid "Muhura"
+msgstr "Muhura marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:58 recursos/0rwanda/datos/levels.py:47
+msgid "Rukara"
+msgstr "Rukara marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:59 recursos/0rwanda/datos/levels.py:48
+msgid "Gikoro"
+msgstr "Gikoro marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:60 recursos/0rwanda/datos/levels.py:49
+msgid "Bicumbi"
+msgstr "Bicumbi marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:61 recursos/0rwanda/datos/levels.py:50
+msgid "Kayonza"
+msgstr "Kayonza marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:62 recursos/0rwanda/datos/levels.py:51
+msgid "Kigarama"
+msgstr "Kigarama marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:63 recursos/0rwanda/datos/levels.py:52
+msgid "Kibungo"
+msgstr "Kibungo marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:64 recursos/0rwanda/datos/levels.py:53
+msgid "Rukira"
+msgstr "Rukira marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:65 recursos/0rwanda/datos/levels.py:54
+msgid "Sake"
+msgstr "Sake marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:66 recursos/0rwanda/datos/levels.py:55
+msgid "Bare"
+msgstr "Bare marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:67 recursos/0rwanda/datos/levels.py:56
+msgid "Rusumo"
+msgstr "Rusumo marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:68 recursos/0rwanda/datos/levels.py:57
+msgid "Kirehe"
+msgstr "Kirehe marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:69 recursos/0rwanda/datos/levels.py:58
+msgid "Bugesera"
+msgstr "Bugesera marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:70 recursos/0rwanda/datos/levels.py:59
+msgid "Rilima"
+msgstr "Rilima marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:71 recursos/0rwanda/datos/levels.py:60
+msgid "Gashora"
+msgstr "Gashora marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:72 recursos/0rwanda/datos/0rwanda.py:81
+#: recursos/0rwanda/datos/levels.py:61 recursos/0rwanda/datos/levels.py:70
+msgid "Nemba"
+msgstr "Nemba marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:73 recursos/0rwanda/datos/levels.py:62
+msgid "Ngenda"
+msgstr "Ngenda marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:74 recursos/0rwanda/datos/levels.py:63
+msgid "Butaro"
+msgstr "Butaro marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:75 recursos/0rwanda/datos/levels.py:64
+msgid "Kidaho"
+msgstr "Kidaho marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:76 recursos/0rwanda/datos/levels.py:65
+msgid "Kirambo"
+msgstr "Kirambo marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:77 recursos/0rwanda/datos/levels.py:66
+msgid "Ruhengeri"
+msgstr "Ruhengeri marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:78 recursos/0rwanda/datos/levels.py:67
+msgid "Busogo"
+msgstr "Busogo marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:79 recursos/0rwanda/datos/levels.py:68
+msgid "Cyamba"
+msgstr "Cyamba marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:80 recursos/0rwanda/datos/levels.py:69
+msgid "Mulindi"
+msgstr "Mulindi marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:82 recursos/0rwanda/datos/levels.py:71
+msgid "Rushashi"
+msgstr "Rushashi marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:83 recursos/0rwanda/datos/levels.py:72
+msgid "Kinihira"
+msgstr "Kinihira marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:84 recursos/0rwanda/datos/levels.py:73
+msgid "Kinyami"
+msgstr "Kinyami marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:85 recursos/0rwanda/datos/levels.py:74
+msgid "Rutare"
+msgstr "Rutare marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:86 recursos/0rwanda/datos/levels.py:75
+msgid "Mbogo"
+msgstr "Mbogo marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:87 recursos/0rwanda/datos/levels.py:76
+msgid "Murambi"
+msgstr "Murambi marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:88 recursos/0rwanda/datos/levels.py:77
+msgid "Shyorongi"
+msgstr "Shyorongi marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:89 recursos/0rwanda/datos/levels.py:78
+msgid "Kora"
+msgstr "Kora marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:90 recursos/0rwanda/datos/levels.py:79
+msgid "Mutura"
+msgstr "Mutura marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:91 recursos/0rwanda/datos/levels.py:80
+msgid "Kagali"
+msgstr "Kagali marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:92 recursos/0rwanda/datos/levels.py:81
+msgid "Gisenyi"
+msgstr "Gisenyi marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:93 recursos/0rwanda/datos/levels.py:82
+msgid "Nyundo"
+msgstr "Nyundo marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:94 recursos/0rwanda/datos/levels.py:83
+msgid "Kabaya"
+msgstr "Kabaya marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:95 recursos/0rwanda/datos/levels.py:18
+msgid "Ngaru"
+msgstr "Ngaru marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:96 recursos/0rwanda/datos/levels.py:84
+msgid "Ngororero"
+msgstr "Ngororero marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:97 recursos/0rwanda/datos/levels.py:85
+msgid "Mabanza"
+msgstr "Mabanza marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:98 recursos/0rwanda/datos/levels.py:86
+msgid "Birambo"
+msgstr "Birambo marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:99 recursos/0rwanda/datos/levels.py:87
+msgid "Bwakira"
+msgstr "Bwakira marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:100 recursos/0rwanda/datos/levels.py:88
+msgid "Gishyita"
+msgstr "Gishyita marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:101 recursos/0rwanda/datos/levels.py:89
+msgid "Rwamatamu"
+msgstr "Rwamatamu marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:102 recursos/0rwanda/datos/levels.py:90
+msgid "Rwesero"
+msgstr "Rwesero marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:103 recursos/0rwanda/datos/levels.py:91
+msgid "Kamembe"
+msgstr "Kamembe marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:105 recursos/0rwanda/datos/levels.py:93
+msgid "Cyimbogo"
+msgstr "Cyimbogo marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:106 recursos/0rwanda/datos/levels.py:94
+msgid "Gisakura"
+msgstr "Gisakura marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:107 recursos/0rwanda/datos/levels.py:95
+msgid "Rwumba"
+msgstr "Rwumba marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:108 recursos/0rwanda/datos/levels.py:96
+msgid "Karengera"
+msgstr "Karengera marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:110 recursos/0rwanda/datos/levels.py:98
+msgid "Bugumya"
+msgstr "Bugumya marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:111 recursos/0rwanda/datos/levels.py:99
+msgid "Bugarama"
+msgstr "Bugarama marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:121
+msgid "Capital:"
+msgstr "Jilïri marka"
+
+#: recursos/0rwanda/datos/0rwanda.py:121
+msgid "(1°57′ S - 30°4′ W)"
+msgstr "(1°57′ S - 30°4′ O) chani"
+
+#: recursos/0rwanda/datos/0rwanda.py:122
+msgid "Language:"
+msgstr "Aru:"
+
+#: recursos/0rwanda/datos/0rwanda.py:122
+msgid "Kinyarwanda"
+msgstr "Kinyarwanda aru"
+
+#: recursos/0rwanda/datos/0rwanda.py:122
+msgid "French"
+msgstr "Francés aru"
+
+#: recursos/0rwanda/datos/0rwanda.py:122
+msgid "English"
+msgstr "Inglés aru"
+
+#: recursos/0rwanda/datos/0rwanda.py:123
+msgid "Government:"
+msgstr "Gobierno P'iqinchäwi:"
+
+#: recursos/0rwanda/datos/0rwanda.py:123
+msgid "Parliamentary presidential republic"
+msgstr "República presidencial parlamentaria P'iqinchäwi"
+
+#: recursos/0rwanda/datos/0rwanda.py:124
+msgid "President:"
+msgstr "Presidente Jilïri Mallku:"
+
+#: recursos/0rwanda/datos/0rwanda.py:124
+msgid "Paul Kagame"
+msgstr "Paul Kagame Presidente Jilïri Mallku"
+
+#: recursos/0rwanda/datos/0rwanda.py:125
+msgid "Prime Minister:"
+msgstr "Primer Ministro Jilïri Mallku:"
+
+#: recursos/0rwanda/datos/0rwanda.py:125
+msgid "Pierre Habumuremyi"
+msgstr "Pierre Habumuremyi Primer Ministro Jilïri Mallku"
+
+#: recursos/0rwanda/datos/0rwanda.py:126
+msgid "Independence:"
+msgstr "Independencia Qhispïwi Mayachäwi:"
+
+#: recursos/0rwanda/datos/0rwanda.py:126
+msgid "from Belgium"
+msgstr "Bélgica markata"
+
+#: recursos/0rwanda/datos/0rwanda.py:127
+#, python-format
+msgid "declared: %s"
+msgstr "inuqata: %s"
+
+#: recursos/0rwanda/datos/0rwanda.py:127
+msgid "1 of July of 1962"
+msgstr "1 de julio de 1962 pachana"
+
+#: recursos/0rwanda/datos/0rwanda.py:128
+msgid "Area:"
+msgstr "Uraqi katu:"
+
+#: recursos/0rwanda/datos/0rwanda.py:128
+msgid "26.338 km² (149th)"
+msgstr "26.338 km² (149º) chani taña"
+
+#: recursos/0rwanda/datos/0rwanda.py:129
+msgid "Population:"
+msgstr "Jaqinaka:"
+
+#: recursos/0rwanda/datos/0rwanda.py:129
+msgid "11.689.696 (73rd)"
+msgstr "11.689.696 (73º) chani"
+
+#: recursos/0rwanda/datos/0rwanda.py:130
+msgid "GDP:"
+msgstr "PBI utjiri:"
+
+#: recursos/0rwanda/datos/0rwanda.py:130
+msgid "USD 6.950 billion (139th)"
+msgstr "USD 6.950 millones (139º) chani"
+
+#: recursos/0rwanda/datos/0rwanda.py:131
+msgid "HDI:"
+msgstr "IDH Jaqinaka Ch'amanchasïwi Mayachäwi:"
+
+#: recursos/0rwanda/datos/0rwanda.py:131
+msgid "Low - 0,429 (166th)"
+msgstr "Bajo - 0,429 (166º) chani"
+
+#: recursos/0rwanda/datos/0rwanda.py:132
+msgid "Currency:"
+msgstr "Qullqi:"
+
+#: recursos/0rwanda/datos/0rwanda.py:132
+msgid "Rwandan franc"
+msgstr "Franco ruandés qullqi"
+
+#: recursos/0rwanda/datos/explorations.py:6
+msgid "Provinces"
+msgstr "Provincia suyunaka"
+
+#: recursos/0rwanda/datos/explorations.py:13
+msgid "Provincial capitals"
+msgstr "Capitales provinciales markanaka"
+
+#: recursos/0rwanda/datos/explorations.py:20
+#: recursos/0rwanda/datos/levels.py:7
+msgid "Cities"
+msgstr "Markanaka"
+
+#: recursos/0rwanda/datos/explorations.py:27
+msgid "Waterways"
+msgstr "Uma jalanaka"
+
+#: recursos/0rwanda/datos/explorations.py:34
+msgid "Routes"
+msgstr "Saranaka"
+
+#: recursos/0rwanda/datos/levels.py:11 recursos/0rwanda/datos/levels.py:12
+#: recursos/0rwanda/datos/levels.py:13 recursos/0rwanda/datos/levels.py:14
+#: recursos/0rwanda/datos/levels.py:15 recursos/0rwanda/datos/levels.py:16
+#: recursos/0rwanda/datos/levels.py:17 recursos/0rwanda/datos/levels.py:18
+#: recursos/0rwanda/datos/levels.py:19 recursos/0rwanda/datos/levels.py:20
+#: recursos/0rwanda/datos/levels.py:21 recursos/0rwanda/datos/levels.py:22
+#: recursos/0rwanda/datos/levels.py:23 recursos/0rwanda/datos/levels.py:24
+#: recursos/0rwanda/datos/levels.py:25 recursos/0rwanda/datos/levels.py:26
+#: recursos/0rwanda/datos/levels.py:27 recursos/0rwanda/datos/levels.py:28
+#: recursos/0rwanda/datos/levels.py:29 recursos/0rwanda/datos/levels.py:30
+#: recursos/0rwanda/datos/levels.py:31 recursos/0rwanda/datos/levels.py:32
+#: recursos/0rwanda/datos/levels.py:33 recursos/0rwanda/datos/levels.py:34
+#: recursos/0rwanda/datos/levels.py:35 recursos/0rwanda/datos/levels.py:36
+#: recursos/0rwanda/datos/levels.py:37 recursos/0rwanda/datos/levels.py:38
+#: recursos/0rwanda/datos/levels.py:39 recursos/0rwanda/datos/levels.py:40
+#: recursos/0rwanda/datos/levels.py:41 recursos/0rwanda/datos/levels.py:42
+#: recursos/0rwanda/datos/levels.py:43 recursos/0rwanda/datos/levels.py:44
+#: recursos/0rwanda/datos/levels.py:45 recursos/0rwanda/datos/levels.py:46
+#: recursos/0rwanda/datos/levels.py:47 recursos/0rwanda/datos/levels.py:48
+#: recursos/0rwanda/datos/levels.py:49 recursos/0rwanda/datos/levels.py:50
+#: recursos/0rwanda/datos/levels.py:51 recursos/0rwanda/datos/levels.py:52
+#: recursos/0rwanda/datos/levels.py:53 recursos/0rwanda/datos/levels.py:54
+#: recursos/0rwanda/datos/levels.py:55 recursos/0rwanda/datos/levels.py:56
+#: recursos/0rwanda/datos/levels.py:57 recursos/0rwanda/datos/levels.py:58
+#: recursos/0rwanda/datos/levels.py:59 recursos/0rwanda/datos/levels.py:60
+#: recursos/0rwanda/datos/levels.py:61 recursos/0rwanda/datos/levels.py:62
+#: recursos/0rwanda/datos/levels.py:63 recursos/0rwanda/datos/levels.py:64
+#: recursos/0rwanda/datos/levels.py:65 recursos/0rwanda/datos/levels.py:66
+#: recursos/0rwanda/datos/levels.py:67 recursos/0rwanda/datos/levels.py:68
+#: recursos/0rwanda/datos/levels.py:69 recursos/0rwanda/datos/levels.py:70
+#: recursos/0rwanda/datos/levels.py:71 recursos/0rwanda/datos/levels.py:72
+#: recursos/0rwanda/datos/levels.py:73 recursos/0rwanda/datos/levels.py:74
+#: recursos/0rwanda/datos/levels.py:75 recursos/0rwanda/datos/levels.py:76
+#: recursos/0rwanda/datos/levels.py:77 recursos/0rwanda/datos/levels.py:78
+#: recursos/0rwanda/datos/levels.py:79 recursos/0rwanda/datos/levels.py:80
+#: recursos/0rwanda/datos/levels.py:81 recursos/0rwanda/datos/levels.py:82
+#: recursos/0rwanda/datos/levels.py:83 recursos/0rwanda/datos/levels.py:84
+#: recursos/0rwanda/datos/levels.py:85 recursos/0rwanda/datos/levels.py:86
+#: recursos/0rwanda/datos/levels.py:87 recursos/0rwanda/datos/levels.py:88
+#: recursos/0rwanda/datos/levels.py:89 recursos/0rwanda/datos/levels.py:90
+#: recursos/0rwanda/datos/levels.py:91 recursos/0rwanda/datos/levels.py:92
+#: recursos/0rwanda/datos/levels.py:93 recursos/0rwanda/datos/levels.py:94
+#: recursos/0rwanda/datos/levels.py:95 recursos/0rwanda/datos/levels.py:96
+#: recursos/0rwanda/datos/levels.py:97 recursos/0rwanda/datos/levels.py:98
+#: recursos/0rwanda/datos/levels.py:99
+#, python-format
+msgid "It's in %s"
+msgstr "Ukankiwa %s"
+
+#: recursos/0rwanda/datos/levels.py:92
+msgid "Cyangugu"
+msgstr "Cyangugu marka"
+
+#: recursos/0rwanda/datos/levels.py:97
+msgid "Nyakabuye"
+msgstr "Nyakabuye marka"
+
+#: recursos/comun/datos/commons.py:8
+msgid ""
+"What a beautiful world!\n"
+"I will explore that territory.\n"
+"There I go!"
+msgstr ""
+"¡Jukha suma uraqi!\n"
+"Uka uraqi tumptha.\n"
+"¡Jichha saraja!"
+
+#: recursos/comun/datos/commons.py:9
+msgid ""
+"Oh, no!\n"
+"The ship has problems,\n"
+"I'm going to crash!"
+msgstr ""
+"¡Jani samti!\n"
+"Pachnama sariri apirijawa jani walt'i,\n"
+"¡Marinukajawa!"
+
+#: recursos/comun/datos/commons.py:10
+msgid ""
+"Luckily I was saved!\n"
+"Now I have to rebuild my ship.\n"
+"Need help!"
+msgstr ""
+"¡Tatitu munañapata qhispthwa!\n"
+"Jichhaxa pachnama sariri apirija askichañajawa.\n"
+"¡Yanapt'ita!"
+
+#: recursos/comun/datos/commons.py:14
+msgid "We have to find"
+msgstr "Katjañasawa"
+
+#: recursos/comun/datos/commons.py:15
+msgid "Now we have to find"
+msgstr "Jichhaxa katjañasawa"
+
+#: recursos/comun/datos/commons.py:16
+msgid ""
+"We have to look\n"
+"a piece of my ship in"
+msgstr ""
+"Thaqañasawa\n"
+"pachnama sariri apirijana maya yäpa thaqañasawa"
+
+#: recursos/comun/datos/commons.py:17
+msgid ""
+"There's a piece\n"
+"of my ship in"
+msgstr ""
+"Maya chiqawa utji\n"
+"pachnama sariri apirijana maya chiqa yäpawa utji"
+
+#: recursos/comun/datos/commons.py:18
+msgid ""
+"According to my information\n"
+"have to look at"
+msgstr ""
+"Yatisirakiwa\n"
+"uka chiqana jikxatasispa"
+
+#: recursos/comun/datos/commons.py:19
+msgid ""
+"We have to\n"
+"go up"
+msgstr ""
+"Sarañasawa\n"
+"uka chiqakama"
+
+#: recursos/comun/datos/commons.py:20
+msgid ""
+"A piece of my\n"
+"ship fell into"
+msgstr ""
+"Maya chiqa\n"
+"pachnama sariri apirijana ukaruwa jalaqaspa"
+
+#: recursos/comun/datos/commons.py:24
+msgid "Can you tell me where it is?"
+msgstr "¿Kawkinkanisa?"
+
+#: recursos/comun/datos/commons.py:25
+msgid "Where is it?"
+msgstr "¿Ukasti kawkinkisa?"
+
+#: recursos/comun/datos/commons.py:26
+msgid "Can you show me where it is?"
+msgstr "¿Kawkinkisa uka uñacht'ayitasmati?"
+
+#: recursos/comun/datos/commons.py:27
+msgid "Can you find it?"
+msgstr "¿Katjasmati?"
+
+#: recursos/comun/datos/commons.py:31
+msgid "Very well!"
+msgstr "¡Walikiwa!"
+
+#: recursos/comun/datos/commons.py:32
+msgid "Brilliant!"
+msgstr "¡Khusawa!"
+
+#: recursos/comun/datos/commons.py:33
+msgid "You found it!"
+msgstr "¡Katjtati!"
+
+#: recursos/comun/datos/commons.py:34
+msgid "Yes!"
+msgstr "¡Jïsa!"
+
+#: recursos/comun/datos/commons.py:38
+msgid "No, that is not correct"
+msgstr "Janiwa, ukaxa janiwa chiqapäkiti"
+
+#: recursos/comun/datos/commons.py:39
+msgid "No, it is not there"
+msgstr "Janiwa, jani ukankkiti"
+
+#: recursos/comun/datos/commons.py:40
+msgid "No, that seems to be wrong"
+msgstr "Janiwa, k'arjamakiwa"
+
+#: recursos/comun/datos/commons.py:41
+msgid "That is not correct"
+msgstr "Ukaxa janiwa chiqapäkiti"
+
+#: recursos/comun/datos/commons.py:45
+msgid ""
+"Now I can return\n"
+"Farewell to my planet.\n"
+"Thanks for your help!"
+msgstr ""
+"Jichha kuttirikthwa\n"
+"uraqijaru.\n"
+"¡Paya suma, yanapt'asiwistawa!"
+
+#: recursos/comun/datos/commons.py:46
+msgid ""
+"My ship is ready.\n"
+"Bye and thanks for helping!"
+msgstr ""
+"Awyunajaxa saythapitawa.\n"
+"¡Waliki yanapt'awistaxa, jakisiñkama!"
+
+#: recursos/comun/datos/commons.py:47
+msgid ""
+"We did it!\n"
+"I'm Ready to take off.\n"
+"Until next time!"
+msgstr ""
+"¡Jakiwthanwa!\n"
+"Sarxaja.\n"
+"¡Jakisiñkama!"
+
+#: recursos/comun/datos/commons.py:51
+msgid "Author: Alan Aguiar"
+msgstr "Luriri: Alan Aguiar"
+
+#: recursos/comun/datos/commons.py:52
+msgid "Send corrections, comments or suggestions to: alanjas@hotmail.com"
+msgstr ""
+"Chiqachañataki apayaña, amuyt'anaka jani ukaxa iwxanaka alanjas@hotmail.com "
+"ukaru apayanma"
+
+#: recursos/comun/datos/commons.py:54
+msgid "This program is free software developed by the community"
+msgstr ""
+"Akïri wakichäwixa software libre taypita tayqi maynina yanapt'äwipampi "
+"wakichatawa."
+
+#: recursos/comun/datos/commons.py:55
+msgid "For more information visit http://ceibaljam.org"
+msgstr "Juk'ampi yatxatañataki akïri wakichäwiru mantma http://ceibaljam.org"
+
+#: recursos/comun/datos/commons.py:57
+msgid "This program is based on 'Conozco Uruguay' (Author: Gabriel Eirea)"
+msgstr ""
+"Akïri wakichataxa 'Conozco Uruguay' wakichatampi luratawa (Luriri: Gabriel "
+"Eirea)"
+
+#: recursos/comun/datos/commons.py:58
+msgid ""
+"Sounds downloaded from freesound.org: junggle_btn117.wav courtesy of junggle."
+msgstr "Ch'ililinaka apaqatanaka freesound.org: junggle_btn117.wav by junggle"
+
+#: recursos/comun/datos/commons.py:59
+msgid "Font: Share-Regular.ttf of urbanfonts.com"
+msgstr "Wakisiri: Share-Regular.ttf de urbanfonts.com wakichataru"

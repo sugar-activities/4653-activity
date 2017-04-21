@@ -1,0 +1,8 @@
+[Activity]
+name = I know Rwanda
+activity_version = 3
+bundle_id = org.ceibaljam.conozcoruanda
+icon = rwanda
+exec = sugar-activity activity.Activity
+license = GPLv3
+summary = Game about the geography of Rwanda
